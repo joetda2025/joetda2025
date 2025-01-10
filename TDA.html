@@ -58,8 +58,8 @@
             <h2>Useful Links</h2>
             <ul>
                 <li><a href="https://example.com" target="_blank">Chat Support </a></li>
-                <li><a href="https://anotherexample.com" target="_blank">Handbook </a></li>
-                <li><a href="https://yetanotherexample.com" target="_blank">Booths Map</a></li>
+                <li><a href="https://call.whatsapp.com/video/B7kuvYwVkMbPx7nwkIBzB5" target="_blank">Call Support </a></li>
+                <li><a href="https://yetanotherexample.com" target="_blank">Handbook</a></li>
             </ul>
         </section>
     </main>
